@@ -9,6 +9,11 @@ import org.apache.hadoop.hbase.client.HBaseAdmin;
 
 import java.io.IOException;
 
+// https://www.devmedia.com.br/hadoop-fundamentos-e-instalacao/29466#ambiente
+// https://hadoop.apache.org/docs/r2.10.0/hadoop-project-dist/hadoop-common/SingleCluster.html#Required_Software
+// https://github.com/steveloughran/winutils
+// https://cwiki.apache.org/confluence/display/HADOOP2/Hadoop2OnWindows
+// https://cwiki.apache.org/confluence/display/HADOOP2/WindowsProblems
 // https://www.baeldung.com/hbase
 //install hbase locally & hbase master start
 public class HbaseClientExample {
